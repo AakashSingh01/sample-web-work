@@ -1,0 +1,184 @@
+body{
+	background-image: url('wall.jpg');
+}
+
+	.arrow{
+background-image: url('./arrow.png');
+}
+.head {
+	border-bottom-width: 1px;
+	border-top-width: 1px;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	border-color: #707477;
+	border-style: solid;
+	width: 1030px;
+	height: 45px;
+	top: 107px;
+	left: 160px;
+	font-family: corbel;
+	font-size: 13px;
+	
+}
+#newsfeed{
+	position: absolute;
+	top: 199px;
+	left: 748px;
+	width: 425px;
+	font-size: 15px;
+	height: 119px;
+	font-family: corbel;	
+}
+#newsfeed li{
+	padding: 5px;
+}
+#newsfeed span{
+	font-size: 16px;
+	color: #1e77b6;
+}
+.head td{
+	padding-left: 33px;
+	padding-right: 20px;
+}
+
+.shadow{
+	box-shadow: 0px 0px 4px 0px; #888888;
+}
+
+#button{
+	width: 32px;
+	height: 32px;
+	border-radius: 5px;
+	background-image: url('./arrow.png');
+	border-width: 0px;
+}
+ul{
+	list-style-type: none;
+}
+.events{
+	position: absolute;
+	top: 165px;
+	left: 799px;
+	color: white;
+font-family: corbel;
+
+}
+#text{
+	top: 20px;
+	left: 940px;
+	width: 210px;
+	height: 30px;
+	border-radius: 6px;
+	border-width: 0px;
+}
+
+#objects{
+	position: absolute;
+	top: 440px;
+	left: 160px;
+	width: 1000px;
+	font-size: 15px;
+	font-family: corbel;
+	color: #1a415c;
+	font-family: corbel;
+	font-weight: bold;
+}
+#line1{
+	position: absolute;
+	color: #65686b;
+	border-style: solid;
+	width: 1020px;
+	top: 415px;
+	left: 155px;
+}
+#line2{
+	position: absolute;
+	color: #65686b;
+	border-style: solid;
+	width: 1020px;
+	top: 462px;
+	left: 155px;
+}
+.depart{
+	position: absolute;
+	top: 485px;
+	left: 165px;
+	font-family:corbel;
+	color: white; 
+}
+.hline{
+	position: absolute;
+	top: 485px;
+	left: 690px;
+	font-family:corbel;
+	color: white; 
+
+}
+.stream{
+	position: absolute;
+	top: 525px;
+	left: 155px;
+	font-size: 13px;
+	width: 380px;
+	font-family: lucida sans;
+	border-width: 0px;
+	background-color: #f3f3f3;
+}
+
+.stream option{
+	padding: 2.7px;
+
+}
+.tab{
+	position: absolute;
+	top: 525px;
+	left: 540px;
+	font-family: corbel;
+	color: white;
+	border-collapse: collapse;
+	text-align: center;
+}
+.box{
+	padding: 13px;	
+}
+.box:hover{
+	background-color: #989d9f;
+}
+a{
+	text-decoration: none;
+}
+.prof{
+	position: absolute;
+	top: 510px;
+	left: 667px;
+	font-size: 13px;
+	list-style-type: circle;
+	font-family: lucida sans;
+	width: 450px;
+	list-style-image: url('./bullet.png');
+}
+.prof li{
+	padding: 4px;
+}
+.bar{
+	position: absolute;
+	top: 750px;
+	left: 155px;
+	border-collapse: collapse;
+	font-size: 13px;
+	width: 1025px;
+}
+.bar td{
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	padding: 1px;
+	text-align: center;
+}
+.detail{
+	font-size: 13px;
+	font-family:lucida sans;
+	color: white;
+}
+ font
+ {padding: 4px;}
